@@ -40,4 +40,4 @@ lerna-debug.log*
 
 #upload file
 /uploaded
-api
+node_modules
